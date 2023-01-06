@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center" style="margin-bottom:10%">
-  <img src="assets/screenshot.png" alt="Screenshot" style="height:500px">
+  <img src="assets/screenshot.png" alt="Screenshot" style="height:80%">
 </div>
 
 ## :warning: Warning
