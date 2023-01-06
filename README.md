@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center" style="height:200px; margin-bottom:10%">
-  <img src="assets/docker_moby.png" alt="Docker logo" style="height:30vh">
+  <img src="assets/screenshot.png" alt="Screenshot" style="height:30vh">
 </div>
 
 ## :warning: Warning
