@@ -8,8 +8,8 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center" style="height:200px; margin-bottom:10%">
-  <img src="assets/screenshot.png" alt="Screenshot" style="height:30vh">
+<div align="center" style="margin-bottom:10%">
+  <img src="assets/screenshot.png" alt="Screenshot" style="height:500px">
 </div>
 
 ## :warning: Warning
