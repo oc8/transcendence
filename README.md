@@ -44,13 +44,13 @@ You can find complete subject <a href="docs/subject">here</a>.
 1. Clone the repo
 
 ```sh
-git clone https://github.com/kema-dev/ft_transcendence.git
+git clone https://github.com/oc8/42-transcendence.git
 ```
 
 2. Go to repository's folder
 
 ```sh
-cd ft_transcendence
+cd 42-transcendence
 ```
 
 3. Create `.env` file from `.env.example` template
@@ -92,7 +92,4 @@ oc8 - [GitHub](https://github.com/oc8)
 
 Totolosa - [GitHub](https://github.com/Totolosa)
 
-## Acknowledgments
 
-* [Img Shields](https://shields.io)
-* [README.MD-Template](https://github.com/othneildrew/Best-README-Template)
