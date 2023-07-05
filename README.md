@@ -21,7 +21,7 @@ This project has been made for educational purpose, it is not production ready. 
 
 <!-- TODO Put images / gifs from the project here -->
 
-**ft_transcendence** is a 42 project, aiming to create a pong-like game using NestJS as backend framework, any TypeScript framework for frontend, and get this altogether using docker compose.
+**ft_transcendence** is a project aiming to create a pong-like game using NestJS as backend framework, any TypeScript framework for frontend, and get this altogether using docker compose.
 
 You can find complete subject <a href="docs/subject">here</a>.
 
@@ -44,13 +44,13 @@ You can find complete subject <a href="docs/subject">here</a>.
 1. Clone the repo
 
 ```sh
-git clone https://github.com/oc8/42-transcendence.git
+git clone https://github.com/oc8/transcendence.git
 ```
 
 2. Go to repository's folder
 
 ```sh
-cd 42-transcendence
+cd transcendence
 ```
 
 3. Create `.env` file from `.env.example` template
